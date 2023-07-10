@@ -43,7 +43,11 @@
    - Flammability: 0%
    - Radioactivity: 4%
    - Charge: 100%
-
+8. **Gold**: Particularly conductive and useful in electronics. Very shiny.
+   - Explosiveness: 0%
+   - Flammability: 0%
+   - Radioactivity: 0%
+   - Charge: 0%
 ## Sniper Towers
 
 - Sniper towers increase the range of a turret depending on the tier of the tower.
